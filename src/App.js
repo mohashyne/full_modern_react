@@ -13,3 +13,8 @@ function App() {
 }
 
 export default App;
+
+
+//  using react  dev tools to debug and test
+//  component and profiler
+// console 
